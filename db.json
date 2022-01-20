@@ -2,17 +2,31 @@
   "logs": [
     {
       "id": 1,
-      "message": "win fight against the evil",
+      "message": "linq lenore",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2022-01-20T18:35:30.051Z"
+      "tech": "Sam Smith",
+      "date": "2022-01-20T21:36:08.231Z"
     },
     {
-      "id": 2,
-      "message": "hakona mekona",
+      "message": "ttt",
+      "attention": true,
+      "tech": "Sarah Wilson",
+      "date": "2022-01-20T22:58:16.190Z",
+      "id": 2
+    },
+    {
+      "message": "koko koleda",
+      "attention": true,
+      "tech": "Sarah Wilson",
+      "date": "2022-01-20T22:58:38.313Z",
+      "id": 3
+    },
+    {
+      "message": "mimimi",
       "attention": true,
       "tech": "Sam Smith",
-      "date": "2022-01-20T18:35:43.446Z"
+      "date": "2022-01-20T22:58:50.649Z",
+      "id": 4
     }
   ],
   "techs": [
