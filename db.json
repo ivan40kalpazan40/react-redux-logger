@@ -1,13 +1,5 @@
 {
-  "logs": [
-    {
-      "message": "asus linux based blink in ubuntu at 144 mHz",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2022-01-20T16:11:42.918Z",
-      "id": 1
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
