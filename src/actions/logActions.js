@@ -10,6 +10,7 @@ import {
   SEARCH_LOGS,
 } from './types';
 
+// Get Logs
 export const getLogs = () => async (dispatch) => {
   try {
     setLoading();
