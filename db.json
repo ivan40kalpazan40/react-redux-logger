@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "linq lenore",
-      "attention": true,
-      "tech": "jimmy stoner",
-      "date": "2022-01-21T15:23:06.526Z"
-    },
-    {
       "id": 2,
       "message": "ttt",
       "attention": false,
@@ -31,11 +24,6 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
       "id": 2,
       "firstName": "Sam",
       "lastName": "Smith"
@@ -49,21 +37,6 @@
       "id": 4,
       "firstName": "Karen",
       "lastName": "Ramirez"
-    },
-    {
-      "firstName": "katya",
-      "lastName": "ivanova",
-      "id": 5
-    },
-    {
-      "firstName": "new",
-      "lastName": "tech",
-      "id": 6
-    },
-    {
-      "firstName": "jimmy",
-      "lastName": "stoner",
-      "id": 7
     }
   ]
 }
